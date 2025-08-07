@@ -6,7 +6,8 @@ import streamlit as st
 from sklearn.preprocessing import MinMaxScaler
 
 # Load trained model
-model = load_model("F:\\PythonProject1\\stock_prediction_model.keras")
+model = load_model("stock_prediction_model.keras")
+
 
 # Streamlit UI
 st.header("Stock Price History Explorer")
