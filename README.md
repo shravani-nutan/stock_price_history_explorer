@@ -19,3 +19,4 @@ stock_price_history_explorer/
 - requirements.txt              -  List of required Python packages
 - README.md                     -  Project documentation
 
+Author Shravani Bhavsar 🔗 GitHub 🔗 LinkedIn
